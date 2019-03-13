@@ -1,0 +1,12 @@
+{
+    "name": "atisawd/boxicons",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Atisa(Aniket Suvarna)",
+            "email": "atisawd@gmail.com"
+        }
+    ],
+    "require": {}
+}
